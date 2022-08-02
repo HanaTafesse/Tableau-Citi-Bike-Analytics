@@ -9,7 +9,7 @@
 ![](https://github.com/HanaTafesse/Tableau-Citi-Bike-Analytics/blob/main/Images/Top%2010%20Start%20Stations%20From%20July%202021%20To%20June%202022.png)
 
 
-![](https://github.com/HanaTafesse/Tableau-Citi-Bike-Analytics/blob/main/Images/Bike_Star_and_yulyet_Station_Map.png)
+![](https://github.com/HanaTafesse/Tableau-Citi-Bike-Analytics/blob/main/Images/Bike%20Start%20and%20End%20%20Rides.png)
 
 
 ![](https://github.com/HanaTafesse/Tableau-Citi-Bike-Analytics/blob/main/Images/Bike_Star_and_yulyet_Station_Map.png)
